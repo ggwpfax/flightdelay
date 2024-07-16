@@ -37,9 +37,9 @@ Model training is performed using the preprocessed data, and various evaluation 
 # Installation
 Clone the repository and install the required dependencies:
 
-``git clone https://github.com/yourusername/flight-delay-prediction.git
-cd flight-delay-prediction
-pip install -r requirements.txt``
+`git clone https://github.com/ggwpfax/flight-delay-prediction.git`
+`cd flight-delay-prediction`
+`pip install -r requirements.txt`
 
 # Usage
 * Data Preprocessing: Run the data cleaning and preprocessing notebooks.
